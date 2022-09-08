@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ....
 I'm studying JS, JSP, SPRING, SPRINGBOOT, AWS
 현재 중고경매 프로젝트 진행중 시큐리티 작업
-너무 어렵군.. 아직 도전중
+너무 어렵군.. 아직 도전중 
 -->
