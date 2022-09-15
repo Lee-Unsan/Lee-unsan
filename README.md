@@ -1,6 +1,7 @@
 # 짧은 소개
 <hr/>
-● :wave:
+<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+" 안녕하세요 제 이름은 이운산 입니다."
 
 <!--
 **Lee-Unsan/Lee-unsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
