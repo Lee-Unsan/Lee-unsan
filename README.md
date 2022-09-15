@@ -1,4 +1,5 @@
-### Hi I'm Lee Unsan 👋
+### 짧은 소개
+● :wave:
 
 <!--
 **Lee-Unsan/Lee-unsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
