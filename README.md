@@ -1,24 +1,32 @@
 # 짧은 소개
-<hr/>
-<g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
-" 안녕하세요 제 이름은 이운산 입니다."
+- 👋 안녕하세요 제 이름은 이운산 입니다.
+- 👀 저의 취미는 야구관람 및 독서하기 입니다.
+- 💞️ 저는 현재 김포에 거주하고 있습니다.
+- 📫 연락처는 email: sleeus1007@gmail.com tel: 010-8237-8966입니다.
 
-<!--
-**Lee-Unsan/Lee-unsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 현재 관심사
+* 
 
-Here are some ideas to get you started:
+# 현재 상태
+* 
+* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ....
-- ⚡ Fun fact: ....
-I'm studying JS, JSP, SPRING, SPRINGBOOT, AWS
-현재 중고경매 프로젝트 진행중 시큐리티 작업
-너무 어렵군.. 아직 도전중 
-추가로 테이핑 프로젝트 세팅중 세팅이 제일 힘드네
-서류도 준비중
--->
+# 고민 거리
+* 
+  
+# 현재 관심을 가지는 저장소
+* 
+  
+# 선호하는 언어(사용하는 플렛폼으로 바뀔수 있음)
+* 자바
+
+# 준비하고 있는 것들(저장소)
+* 리눅스
+* 오라클(SQL)
+* MarkUp언어로 깃꾸미기!!
+
+# DIARY
+- 프로필 업데이트 날짜 : 2022년 09월 15일
+
+## 개인 개발 :
+* 스포츠 테이핑 사이트 개발중
